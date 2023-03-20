@@ -1,0 +1,5 @@
+{"name":"Vicky","score":123}
+{"name":"Chiu","score":100}
+{"name":"Chiao","score":80}
+{"name":"Jim","score":60}
+{"name":"123","score":0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b937cecfa09f44489af03e9b2c142188, type: 3}
+  m_Name: Fish Factory
+  m_EditorClassIdentifier: 
+  fishes:
+  - {fileID: 710832915926902674, guid: 07458d7574ad24018bde55b01eb02774, type: 3}
+  - {fileID: 1876589417226817790, guid: ded811835f0fe41fba1f9f5986b0020a, type: 3}
+  - {fileID: 8709160945192385245, guid: fa941523ed16545b98314ffba593050e, type: 3}
